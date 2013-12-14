@@ -1,2 +1,2 @@
 #vbs_sample
-VBScript自習で作成したスクリプト
+* VBScript自習で作成したスクリプト
