@@ -1,5 +1,5 @@
 Option Explicit
-
+違う修正。
 Class Vector
 	
 	'データ(動的配列)
