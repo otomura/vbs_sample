@@ -1,3 +1,4 @@
+'C³.
 'include ‚ÉŠY“– Vector ƒNƒ‰ƒX
 Dim fso : Set fso = CreateObject("Scripting.FileSystemObject")
 ExecuteGlobal fso.OpenTextFile("./17.Vector.vbs").ReadAll
